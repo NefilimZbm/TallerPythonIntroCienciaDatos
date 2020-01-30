@@ -107,3 +107,6 @@ notebooks/notUsed
 
 # pdfs
 *.pdf
+
+# work in progress wip
+wip/
